@@ -8,14 +8,14 @@ No permission is granted to use, copy, modify, publish, or distribute any non-pu
 ---
 
 ## Overview
-This project implements an **AOI (Automated Optical Inspection)** pipeline for **iPhone camera-hole sidewall inspection**, targeting defects that vary significantly in scale and appearance. The system is designed to be robust under **reflective/low-contrast conditions** common in glass/metallic surfaces and to operate under **production constraints** suitable for real-time line deployment. :contentReference[oaicite:1]{index=1}
+This project implements an **AOI (Automated Optical Inspection)** pipeline for **iPhone camera-hole sidewall inspection**, targeting defects that vary significantly in scale and appearance. The system is designed to be robust under **reflective/low-contrast conditions** common in glass/metallic surfaces and to operate under **production constraints** suitable for real-time line deployment. 
 
 ---
 
 ## Key Ideas
-- **Hybrid segmentation** approach to handle both **small** and **large** defect types within the camera-hole sidewall region. :contentReference[oaicite:2]{index=2}
-- Pipeline tuning for **generalization** across variations (lighting, reflections, viewpoint) using robust preprocessing + deployment validation. :contentReference[oaicite:3]{index=3}
-- **Production-oriented inference optimization** to meet runtime constraints. :contentReference[oaicite:4]{index=4}
+- **Hybrid segmentation** approach to handle both **small** and **large** defect types within the camera-hole sidewall region.
+- Pipeline tuning for **generalization** across variations (lighting, reflections, viewpoint) using robust preprocessing + deployment validation.
+- **Production-oriented inference optimization** to meet runtime constraints.
 
 ---
 
@@ -34,5 +34,5 @@ This project implements an **AOI (Automated Optical Inspection)** pipeline for *
 ---
 
 ## Tech Stack
-- **Language**: Python :contentReference[oaicite:5]{index=5}  
-- **Libraries**: PyTorch, OpenCV :contentReference[oaicite:6]{index=6}  
+- **Language**: Python
+- **Libraries**: PyTorch, OpenCV
