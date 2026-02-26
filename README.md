@@ -3,7 +3,6 @@
 ## ⚠️ Confidential / Proprietary
 This repository is **confidential** and intended only for authorized reviewers/collaborators.  
 Due to confidentiality obligations, **training data, production images, and certain deployment details are not included**.  
-No permission is granted to use, copy, modify, publish, or distribute any non-public materials without explicit written permission.
 
 ---
 
