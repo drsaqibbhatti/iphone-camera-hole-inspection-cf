@@ -1,4 +1,4 @@
-# iPhone Camera-Hole Inspection (AOI) — Confidential
+# iPhone Camera-Hole Inspection (AOI)
 
 ## ⚠️ Confidential / Proprietary
 This repository is **confidential** and intended only for authorized reviewers/collaborators.  
